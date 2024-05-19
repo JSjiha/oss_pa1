@@ -1,4 +1,4 @@
-Add
-Commit
 Push
+Commit
+Add
 This is issue2
