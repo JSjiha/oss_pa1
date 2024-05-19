@@ -1,6 +1,8 @@
-Add
+Push
+This is issue1
 Commit
 Push
 This is main
 This is issue1
+Add
 This is issue2
