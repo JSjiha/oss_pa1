@@ -1,5 +1,3 @@
-Push
-This is issue1
-Commit
 Add
-This is issue2
+Commit
+Push
